@@ -35,6 +35,7 @@ const App = () => {
 
   return (
     <div className="App">
+      <h1 className="firstTitle">Search Any Recipes</h1>
         <form onSubmit={getSearch} className="search-form">
           <input className="search-bar" type="text" value={search} onChange={updateSearch}/>
           <button className="search-button" type="submit"> Search </button>
@@ -44,7 +45,7 @@ const App = () => {
           <Recipe
             key={recipe.recipe.label}
             title={recipe.recipe.label}
-            calories={recipe.recipe.calories}
+            calories={recipe.recipe.calories} 
             image={recipe.recipe.image}
             ingredients={recipe.recipe.ingredients}
             />

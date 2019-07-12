@@ -3,6 +3,11 @@
   background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);
 }
 
+.firstTitle {
+  text-align: center;
+  font-size: 40px;
+}
+
 .search-form{
   min-hieght: 10vh;
   display: flex;

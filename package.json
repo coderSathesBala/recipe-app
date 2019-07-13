@@ -1,6 +1,5 @@
 {
   "name": "recipe-app",
-  "homepage": "https://sathesbitmaker.github.io/recipe-app/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -31,5 +30,19 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sathesbitmaker/recipe-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://sathesbitmaker.github.io/recipe-app/",
+  "bugs": {
+    "url": "https://github.com/sathesbitmaker/recipe-app/issues"
   }
 }

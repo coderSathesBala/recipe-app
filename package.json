@@ -36,13 +36,13 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sathesbitmaker/recipe-app.git"
+    "url": "git+https://github.com/coderSathesBala/recipe-app.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "https://sathesbitmaker.github.io/recipe-app/",
+  "homepage": "https://coderSathesBala.github.io/recipe-app/",
   "bugs": {
-    "url": "https://github.com/sathesbitmaker/recipe-app/issues"
+    "url": "https://github.com/coderSathesBala/recipe-app/issues"
   }
 }

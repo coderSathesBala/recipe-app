@@ -1,1 +1,3 @@
 While working in the restaurant industry I wanted to create a Web Application which is relatable to what I am doing right now. While working at a restaurant I often find myself in situations where I am constantly eating out, building this recipe app helped me find healthier dishes I could create on my own while working on my coding skills. This is the second React Project I have built, in the first one I used classes to get all the work done, during this Recipe App I decided to use Hooks instead in order to gain a better understanding. I love using hooks this project has cleaner code compared to my last project where I was using classes. React is awesome to use and I would love to continue using it!
+
+https://codersathesbala.github.io/recipe-app/

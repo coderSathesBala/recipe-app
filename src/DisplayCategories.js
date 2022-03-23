@@ -1,10 +1,8 @@
 import React,{useEffect, useState} from 'react';
-import logo from './logo.svg';
 import './App.css';
 import Recipe from './Recipe'
-import LandingPage from './LandingPage.js'
 
-const App = () => {
+const DisplayCategories = () => {
 
   const APP_ID = '699ae5b0'
   const APP_KEY = '89e8ba8a39644a25a21deb6e2146dc2f'
@@ -56,4 +54,4 @@ const App = () => {
   );
 }
 
-export default App;
+export default DisplayCategories;

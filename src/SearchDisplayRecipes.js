@@ -2,7 +2,7 @@ import React,{useEffect, useState} from 'react';
 import './App.css';
 import Recipe from './Recipe'
 
-const DisplayCategories = () => {
+const SearchDisplayRecipes = () => {
 
   const APP_ID = '699ae5b0'
   const APP_KEY = '89e8ba8a39644a25a21deb6e2146dc2f'
@@ -54,4 +54,4 @@ const DisplayCategories = () => {
   );
 }
 
-export default DisplayCategories;
+export default SearchDisplayRecipes;

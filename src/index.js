@@ -8,7 +8,8 @@ import {
     Routes,
     Route,
   } from "react-router-dom";
-  import DisplayCategories from './DisplayCategories';
+  import SearchDisplayRecipes from './SearchDisplayRecipes';
+  import Categories from './Categories'
 
 // ReactDOM.render(<App />, document.getElementById('root'));
 
@@ -18,7 +19,8 @@ render(
     <Routes>
       <Route path="/" element={<App/>}/>
       <Route path="/recipe-app" element={<App/>}/>
-      <Route path="/display-categories" element={<DisplayCategories />}/>
+      <Route path="/search-display-recipes" element={<SearchDisplayRecipes />}/>
+      <Route path="/categories" element={<Categories />}/>
     </Routes>
   </BrowserRouter>,
   rootElement

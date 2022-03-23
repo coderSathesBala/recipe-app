@@ -13,7 +13,7 @@ const LandingPage = () => {
             <h1>ALL RECIPES</h1>
             <h2>A platform to assist you choose your favorite recipe!</h2>
             <h2>We're building a recipe community where people discover food, share recipes, and connect with creators.</h2>
-            <h1><Link to="/display-categories">GET STARTED</Link></h1>
+            <h1><Link to="/search-display-recipes">GET STARTED</Link></h1>
         </div>
     )
 }
